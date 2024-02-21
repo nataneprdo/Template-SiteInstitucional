@@ -1,0 +1,321 @@
+0000.000 (0) Opened log file at time: Wed, 17 Jan 2024 19:48:22 +0000 on http://localhost/site-institucional
+0000.009 (0) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.23.16 WP: 6.4.2 PHP: 8.2.4 (apache2handler, Windows NT PRISCILA 10.0 build 22631 (Windows 11) AMD64) MySQL: 10.4.28-MariaDB (max packet size=1048576) WPLANG: pt_BR Server: Apache/2.4.56 (Win64) OpenSSL/1.1.1t PHP/8.2.4 safe_mode: 0 max_execution_time: 900 memory_limit: 512M (used: 15.1M | 16M) multisite: N openssl: OpenSSL 3.0.8 7 Feb 2023 mcrypt: N LANG:  ZipArchive::addFile: Y
+0000.012 (0) Free space on disk containing Updraft's temporary directory: 516954.3 MB
+0000.015 (0) Tasks: Backup files: 1 (schedule: unset) Backup DB: 1 (schedule: unset)
+0000.017 (0) Semaphore (fd, dcd_templatesoptions) being initialised
+0000.022 (0) Requesting semaphore lock (fd) (apparently not via scheduler)
+0000.026 (0) Set semaphore last lock (fd) time to 2024-01-17 19:48:22
+0000.027 (0) Semaphore lock (fd) complete
+0000.032 (0) Backup run: resumption=0, nonce=2c3b76ed78eb, file_nonce=2c3b76ed78eb begun at=1705520902 (1s ago), job type=backup
+0000.034 (0) Scheduling a resumption (1) after 300 seconds (1705521203) in case this run gets aborted
+0000.051 (0) Checking if we have a zip executable available
+0000.054 (0) Creation of backups of directories: beginning
+0000.059 (0) Beginning creation of dump of plugins (split every: 400 MB)
+0001.759 (0) Total entities for the zip file: 1280 directories, 6184 files (0 skipped as non-modified), 140.5 MB
+0001.798 (0) Zip: backup_2024-01-17-1648_Site_Institucional_2c3b76ed78eb-plugins.zip.tmp: 100 files added (on-disk size: 0 KB)
+0001.835 (0) Zip: backup_2024-01-17-1648_Site_Institucional_2c3b76ed78eb-plugins.zip.tmp: 200 files added (on-disk size: 0 KB)
+0001.848 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 25 MB added on this batch (25.6 MB, 6184 files batched, 231 (231) added so far); re-opening (prior size: 0 KB)
+0002.450 (0) A useful amount of data was added after this amount of zip processing: 2.4 s (normalised: 2.4 s, rate: 10850.4 KB/s)
+0002.452 (0) Performance is good - will increase the amount of data we attempt to batch (time=2.4178240299225, normalised_time=2.3593562859624, max_time=2.4511108398438, data points known=1, old_max_bytes=26214400, new_max_bytes=66664963)
+0002.484 (0) Zip: backup_2024-01-17-1648_Site_Institucional_2c3b76ed78eb-plugins.zip.tmp: 300 files added (on-disk size: 4329.7 KB)
+0002.521 (0) Zip: backup_2024-01-17-1648_Site_Institucional_2c3b76ed78eb-plugins.zip.tmp: 400 files added (on-disk size: 4329.7 KB)
+0002.557 (0) Zip: backup_2024-01-17-1648_Site_Institucional_2c3b76ed78eb-plugins.zip.tmp: 500 files added (on-disk size: 4329.7 KB)
+0002.593 (0) Zip: backup_2024-01-17-1648_Site_Institucional_2c3b76ed78eb-plugins.zip.tmp: 600 files added (on-disk size: 4329.7 KB)
+0002.628 (0) Zip: backup_2024-01-17-1648_Site_Institucional_2c3b76ed78eb-plugins.zip.tmp: 700 files added (on-disk size: 4329.7 KB)
+0002.753 (0) Zip: backup_2024-01-17-1648_Site_Institucional_2c3b76ed78eb-plugins.zip.tmp: 800 files added (on-disk size: 4329.7 KB)
+0002.788 (0) Zip: backup_2024-01-17-1648_Site_Institucional_2c3b76ed78eb-plugins.zip.tmp: 900 files added (on-disk size: 4329.7 KB)
+0002.823 (0) Zip: backup_2024-01-17-1648_Site_Institucional_2c3b76ed78eb-plugins.zip.tmp: 1000 files added (on-disk size: 4329.7 KB)
+0002.859 (0) Zip: backup_2024-01-17-1648_Site_Institucional_2c3b76ed78eb-plugins.zip.tmp: 1100 files added (on-disk size: 4329.7 KB)
+0002.895 (0) Zip: backup_2024-01-17-1648_Site_Institucional_2c3b76ed78eb-plugins.zip.tmp: 1200 files added (on-disk size: 4329.7 KB)
+0002.907 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (16 MB, 6184 files batched, 1001 (1232) added so far); re-opening (prior size: 4329.7 KB)
+0003.743 (0) Zip: backup_2024-01-17-1648_Site_Institucional_2c3b76ed78eb-plugins.zip.tmp: 1300 files added (on-disk size: 9780.2 KB)
+0003.779 (0) Zip: backup_2024-01-17-1648_Site_Institucional_2c3b76ed78eb-plugins.zip.tmp: 1400 files added (on-disk size: 9780.2 KB)
+0003.815 (0) Zip: backup_2024-01-17-1648_Site_Institucional_2c3b76ed78eb-plugins.zip.tmp: 1500 files added (on-disk size: 9780.2 KB)
+0003.851 (0) Zip: backup_2024-01-17-1648_Site_Institucional_2c3b76ed78eb-plugins.zip.tmp: 1600 files added (on-disk size: 9780.2 KB)
+0003.886 (0) Zip: backup_2024-01-17-1648_Site_Institucional_2c3b76ed78eb-plugins.zip.tmp: 1700 files added (on-disk size: 9780.2 KB)
+0003.921 (0) Zip: backup_2024-01-17-1648_Site_Institucional_2c3b76ed78eb-plugins.zip.tmp: 1800 files added (on-disk size: 9780.2 KB)
+0003.956 (0) Zip: backup_2024-01-17-1648_Site_Institucional_2c3b76ed78eb-plugins.zip.tmp: 1900 files added (on-disk size: 9780.2 KB)
+0003.992 (0) Zip: backup_2024-01-17-1648_Site_Institucional_2c3b76ed78eb-plugins.zip.tmp: 2000 files added (on-disk size: 9780.2 KB)
+0004.027 (0) Zip: backup_2024-01-17-1648_Site_Institucional_2c3b76ed78eb-plugins.zip.tmp: 2100 files added (on-disk size: 9780.2 KB)
+0004.062 (0) Zip: backup_2024-01-17-1648_Site_Institucional_2c3b76ed78eb-plugins.zip.tmp: 2200 files added (on-disk size: 9780.2 KB)
+0004.075 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (20.8 MB, 6184 files batched, 1001 (2233) added so far); re-opening (prior size: 9780.2 KB)
+0004.958 (0) Zip: backup_2024-01-17-1648_Site_Institucional_2c3b76ed78eb-plugins.zip.tmp: 2300 files added (on-disk size: 14131.1 KB)
+0004.995 (0) Zip: backup_2024-01-17-1648_Site_Institucional_2c3b76ed78eb-plugins.zip.tmp: 2400 files added (on-disk size: 14131.1 KB)
+0005.031 (0) Zip: backup_2024-01-17-1648_Site_Institucional_2c3b76ed78eb-plugins.zip.tmp: 2500 files added (on-disk size: 14131.1 KB)
+0005.067 (0) Zip: backup_2024-01-17-1648_Site_Institucional_2c3b76ed78eb-plugins.zip.tmp: 2600 files added (on-disk size: 14131.1 KB)
+0005.101 (0) Zip: backup_2024-01-17-1648_Site_Institucional_2c3b76ed78eb-plugins.zip.tmp: 2700 files added (on-disk size: 14131.1 KB)
+0005.139 (0) Zip: backup_2024-01-17-1648_Site_Institucional_2c3b76ed78eb-plugins.zip.tmp: 2800 files added (on-disk size: 14131.1 KB)
+0005.173 (0) Zip: backup_2024-01-17-1648_Site_Institucional_2c3b76ed78eb-plugins.zip.tmp: 2900 files added (on-disk size: 14131.1 KB)
+0005.208 (0) Zip: backup_2024-01-17-1648_Site_Institucional_2c3b76ed78eb-plugins.zip.tmp: 3000 files added (on-disk size: 14131.1 KB)
+0005.243 (0) Zip: backup_2024-01-17-1648_Site_Institucional_2c3b76ed78eb-plugins.zip.tmp: 3100 files added (on-disk size: 14131.1 KB)
+0005.279 (0) Zip: backup_2024-01-17-1648_Site_Institucional_2c3b76ed78eb-plugins.zip.tmp: 3200 files added (on-disk size: 14131.1 KB)
+0005.296 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (45 MB, 6184 files batched, 1001 (3234) added so far); re-opening (prior size: 14131.1 KB)
+0007.344 (0) Zip: backup_2024-01-17-1648_Site_Institucional_2c3b76ed78eb-plugins.zip.tmp: 3300 files added (on-disk size: 23742.1 KB)
+0007.380 (0) Zip: backup_2024-01-17-1648_Site_Institucional_2c3b76ed78eb-plugins.zip.tmp: 3400 files added (on-disk size: 23742.1 KB)
+0007.416 (0) Zip: backup_2024-01-17-1648_Site_Institucional_2c3b76ed78eb-plugins.zip.tmp: 3500 files added (on-disk size: 23742.1 KB)
+0007.451 (0) Zip: backup_2024-01-17-1648_Site_Institucional_2c3b76ed78eb-plugins.zip.tmp: 3600 files added (on-disk size: 23742.1 KB)
+0007.487 (0) Zip: backup_2024-01-17-1648_Site_Institucional_2c3b76ed78eb-plugins.zip.tmp: 3700 files added (on-disk size: 23742.1 KB)
+0007.523 (0) Zip: backup_2024-01-17-1648_Site_Institucional_2c3b76ed78eb-plugins.zip.tmp: 3800 files added (on-disk size: 23742.1 KB)
+0007.571 (0) Zip: backup_2024-01-17-1648_Site_Institucional_2c3b76ed78eb-plugins.zip.tmp: 3900 files added (on-disk size: 23742.1 KB)
+0007.605 (0) Zip: backup_2024-01-17-1648_Site_Institucional_2c3b76ed78eb-plugins.zip.tmp: 4000 files added (on-disk size: 23742.1 KB)
+0007.641 (0) Zip: backup_2024-01-17-1648_Site_Institucional_2c3b76ed78eb-plugins.zip.tmp: 4100 files added (on-disk size: 23742.1 KB)
+0007.676 (0) Zip: backup_2024-01-17-1648_Site_Institucional_2c3b76ed78eb-plugins.zip.tmp: 4200 files added (on-disk size: 23742.1 KB)
+0007.690 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (8.1 MB, 6184 files batched, 1001 (4235) added so far); re-opening (prior size: 23742.1 KB)
+0008.330 (0) Zip: backup_2024-01-17-1648_Site_Institucional_2c3b76ed78eb-plugins.zip.tmp: 4300 files added (on-disk size: 26223.4 KB)
+0008.367 (0) Zip: backup_2024-01-17-1648_Site_Institucional_2c3b76ed78eb-plugins.zip.tmp: 4400 files added (on-disk size: 26223.4 KB)
+0008.404 (0) Zip: backup_2024-01-17-1648_Site_Institucional_2c3b76ed78eb-plugins.zip.tmp: 4500 files added (on-disk size: 26223.4 KB)
+0008.443 (0) Zip: backup_2024-01-17-1648_Site_Institucional_2c3b76ed78eb-plugins.zip.tmp: 4600 files added (on-disk size: 26223.4 KB)
+0008.481 (0) Zip: backup_2024-01-17-1648_Site_Institucional_2c3b76ed78eb-plugins.zip.tmp: 4700 files added (on-disk size: 26223.4 KB)
+0008.519 (0) Zip: backup_2024-01-17-1648_Site_Institucional_2c3b76ed78eb-plugins.zip.tmp: 4800 files added (on-disk size: 26223.4 KB)
+0008.572 (0) Zip: backup_2024-01-17-1648_Site_Institucional_2c3b76ed78eb-plugins.zip.tmp: 4900 files added (on-disk size: 26223.4 KB)
+0008.610 (0) Zip: backup_2024-01-17-1648_Site_Institucional_2c3b76ed78eb-plugins.zip.tmp: 5000 files added (on-disk size: 26223.4 KB)
+0008.648 (0) Zip: backup_2024-01-17-1648_Site_Institucional_2c3b76ed78eb-plugins.zip.tmp: 5100 files added (on-disk size: 26223.4 KB)
+0008.687 (0) Zip: backup_2024-01-17-1648_Site_Institucional_2c3b76ed78eb-plugins.zip.tmp: 5200 files added (on-disk size: 26223.4 KB)
+0008.702 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (19.2 MB, 6184 files batched, 1001 (5236) added so far); re-opening (prior size: 26223.4 KB)
+0009.649 (0) Zip: backup_2024-01-17-1648_Site_Institucional_2c3b76ed78eb-plugins.zip.tmp: 5300 files added (on-disk size: 33283.9 KB)
+0009.684 (0) Zip: backup_2024-01-17-1648_Site_Institucional_2c3b76ed78eb-plugins.zip.tmp: 5400 files added (on-disk size: 33283.9 KB)
+0009.720 (0) Zip: backup_2024-01-17-1648_Site_Institucional_2c3b76ed78eb-plugins.zip.tmp: 5500 files added (on-disk size: 33283.9 KB)
+0009.756 (0) Zip: backup_2024-01-17-1648_Site_Institucional_2c3b76ed78eb-plugins.zip.tmp: 5600 files added (on-disk size: 33283.9 KB)
+0009.807 (0) Zip: backup_2024-01-17-1648_Site_Institucional_2c3b76ed78eb-plugins.zip.tmp: 5700 files added (on-disk size: 33283.9 KB)
+0009.844 (0) Zip: backup_2024-01-17-1648_Site_Institucional_2c3b76ed78eb-plugins.zip.tmp: 5800 files added (on-disk size: 33283.9 KB)
+0009.880 (0) Zip: backup_2024-01-17-1648_Site_Institucional_2c3b76ed78eb-plugins.zip.tmp: 5900 files added (on-disk size: 33283.9 KB)
+0009.916 (0) Zip: backup_2024-01-17-1648_Site_Institucional_2c3b76ed78eb-plugins.zip.tmp: 6000 files added (on-disk size: 33283.9 KB)
+0009.952 (0) Zip: backup_2024-01-17-1648_Site_Institucional_2c3b76ed78eb-plugins.zip.tmp: 6100 files added (on-disk size: 33283.9 KB)
+0010.890 (0) Creating zip file manifest (backup_2024-01-17-1648_Site_Institucional_2c3b76ed78eb-plugins.zip.list-temp.tmp)
+0010.910 (0) Successfully created zip file manifest (size: 526134)
+0011.133 (0) Created plugins zip (0) - 35225.4 KB in 11.1 s (3182.5 KB/s) (sha1: d2adf74d40412b19db55678e5ce634c477e35cd3, sha256: 997ce398129171bb4d47cad4e0f85bccce754beefafe2e68611c6dd1221e8b88)
+0011.141 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0011.142 (0) No remote despatch: user chose no remote backup service
+0011.144 (0) Recording as successfully uploaded: backup_2024-01-17-1648_Site_Institucional_2c3b76ed78eb-plugins.zip
+0011.147 (0) Deleting zip manifest (backup_2024-01-17-1648_Site_Institucional_2c3b76ed78eb-plugins.zip.list.tmp)
+0011.152 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0011.152 (0) Number of backup sets in history: 0; groups (db): 1
+0011.154 (0) Number of backup sets in history: 0; groups (files): 1
+0011.156 (0) Retain: saving new backup history (sets now: 0) and finishing retain operation
+0011.167 (0) Beginning creation of dump of themes (split every: 400 MB)
+0011.421 (0) Total entities for the zip file: 311 directories, 734 files (0 skipped as non-modified), 18.9 MB
+0011.457 (0) Zip: backup_2024-01-17-1648_Site_Institucional_2c3b76ed78eb-themes.zip.tmp: 100 files added (on-disk size: 0 KB)
+0011.495 (0) Zip: backup_2024-01-17-1648_Site_Institucional_2c3b76ed78eb-themes.zip.tmp: 200 files added (on-disk size: 0 KB)
+0011.535 (0) Zip: backup_2024-01-17-1648_Site_Institucional_2c3b76ed78eb-themes.zip.tmp: 300 files added (on-disk size: 0 KB)
+0011.573 (0) Zip: backup_2024-01-17-1648_Site_Institucional_2c3b76ed78eb-themes.zip.tmp: 400 files added (on-disk size: 0 KB)
+0011.610 (0) Zip: backup_2024-01-17-1648_Site_Institucional_2c3b76ed78eb-themes.zip.tmp: 500 files added (on-disk size: 0 KB)
+0011.647 (0) Zip: backup_2024-01-17-1648_Site_Institucional_2c3b76ed78eb-themes.zip.tmp: 600 files added (on-disk size: 0 KB)
+0011.683 (0) Zip: backup_2024-01-17-1648_Site_Institucional_2c3b76ed78eb-themes.zip.tmp: 700 files added (on-disk size: 0 KB)
+0012.486 (0) Creating zip file manifest (backup_2024-01-17-1648_Site_Institucional_2c3b76ed78eb-themes.zip.list-temp.tmp)
+0012.490 (0) Successfully created zip file manifest (size: 63825)
+0012.534 (0) Created themes zip (0) - 6120.9 KB in 1.4 s (4487.7 KB/s) (sha1: cf975a0e57b2db24bc3dbb33b268509fc0867f0a, sha256: fae501205b44922bd78f5086062cad1828efa624d5b89f52e9abd5d7b18f204a)
+0012.541 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0012.542 (0) No remote despatch: user chose no remote backup service
+0012.544 (0) Recording as successfully uploaded: backup_2024-01-17-1648_Site_Institucional_2c3b76ed78eb-themes.zip
+0012.547 (0) Deleting zip manifest (backup_2024-01-17-1648_Site_Institucional_2c3b76ed78eb-themes.zip.list.tmp)
+0012.550 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0012.552 (0) Number of backup sets in history: 0; groups (db): 1
+0012.553 (0) Number of backup sets in history: 0; groups (files): 1
+0012.554 (0) Retain: saving new backup history (sets now: 0) and finishing retain operation
+0012.562 (0) Exclusion option setting (uploads): backup*,*backups,backwpup*,wp-clone,snapshots
+0012.563 (0) Looking for candidates to backup in: C:\xampp\htdocs\site-institucional/wp-content/uploads
+0012.564 (0) finding files: .htaccess: adding to list (1)
+0012.566 (0) finding files: 2024: adding to list (2)
+0012.567 (0) finding files: astra-sites: adding to list (3)
+0012.569 (0) finding files: eb-patterns: adding to list (4)
+0012.569 (0) finding files: uag-plugin: adding to list (5)
+0012.571 (0) finding files: wpforms: adding to list (6)
+0012.573 (0) finding files: wpo: adding to list (7)
+0012.574 (0) finding files: wpo-plugins-tables-list.json: adding to list (8)
+0012.576 (0) Beginning creation of dump of uploads (split every: 400 MB)
+0012.608 (0) Total entities for the zip file: 11 directories, 111 files (0 skipped as non-modified), 8.8 MB
+0012.643 (0) Zip: backup_2024-01-17-1648_Site_Institucional_2c3b76ed78eb-uploads.zip.tmp: 100 files added (on-disk size: 0 KB)
+0012.735 (0) Creating zip file manifest (backup_2024-01-17-1648_Site_Institucional_2c3b76ed78eb-uploads.zip.list-temp.tmp)
+0012.738 (0) Successfully created zip file manifest (size: 11515)
+0012.794 (0) Created uploads zip (0) - 8096.7 KB in 0.2 s (37822.9 KB/s) (sha1: 2eba0dcccd9e816fb88d684befc5234eedc01b92, sha256: 3d2f5e78cd20ec1f9353b992dd554f34c45d3576edefdcb60df8792c2409cb15)
+0012.799 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0012.800 (0) No remote despatch: user chose no remote backup service
+0012.801 (0) Recording as successfully uploaded: backup_2024-01-17-1648_Site_Institucional_2c3b76ed78eb-uploads.zip
+0012.804 (0) Deleting zip manifest (backup_2024-01-17-1648_Site_Institucional_2c3b76ed78eb-uploads.zip.list.tmp)
+0012.806 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0012.807 (0) Number of backup sets in history: 0; groups (db): 1
+0012.808 (0) Number of backup sets in history: 0; groups (files): 1
+0012.810 (0) Retain: saving new backup history (sets now: 0) and finishing retain operation
+0012.814 (0) No backup of mu-plugins: excluded by user's options
+0012.816 (0) Beginning backup of other directories found in the content directory (index: 0)
+0012.818 (0) Exclusion option setting (others): upgrade,cache,updraft,backup*,*backups,mysql.sql,debug.log
+0012.820 (0) Looking for candidates to backup in: C:\xampp\htdocs\site-institucional/wp-content
+0012.821 (0) finding files: index.php: adding to list (1)
+0012.822 (0) finding files: languages: adding to list (2)
+0012.823 (0) finding files: plugins: skipping: this is the plugins directory
+0012.824 (0) finding files: themes: skipping: this is the themes directory
+0012.825 (0) finding files: updraft: skipping: this is the updraft directory
+0012.827 (0) finding files: upgrade: skipping: excluded by options
+0012.827 (0) finding files: uploads: skipping: this is the uploads directory
+0012.852 (0) Total entities for the zip file: 3 directories, 102 files (0 skipped as non-modified), 4.4 MB
+0012.887 (0) Zip: backup_2024-01-17-1648_Site_Institucional_2c3b76ed78eb-others.zip.tmp: 100 files added (on-disk size: 0 KB)
+0013.177 (0) Creating zip file manifest (backup_2024-01-17-1648_Site_Institucional_2c3b76ed78eb-others.zip.list-temp.tmp)
+0013.179 (0) Successfully created zip file manifest (size: 6478)
+0013.193 (0) Created others zip (0) - 1238.1 KB in 0.4 s (3426.9 KB/s) (sha1: 3fc7b702cc9d0877056bb209691a5077be7d9749, sha256: 21534d7e9fd36caaa7008993abf53333f7590226131042c752619d1e016b05c3)
+0013.199 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0013.199 (0) No remote despatch: user chose no remote backup service
+0013.201 (0) Recording as successfully uploaded: backup_2024-01-17-1648_Site_Institucional_2c3b76ed78eb-others.zip
+0013.203 (0) Deleting zip manifest (backup_2024-01-17-1648_Site_Institucional_2c3b76ed78eb-others.zip.list.tmp)
+0013.206 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0013.208 (0) Number of backup sets in history: 0; groups (db): 1
+0013.208 (0) Number of backup sets in history: 0; groups (files): 1
+0013.210 (0) Retain: saving new backup history (sets now: 0) and finishing retain operation
+0013.219 (0) Saving backup status to database (elements: 8)
+0013.222 (0) Beginning creation of database dump (WordPress DB)
+0013.224 (0) SQL compatibility mode is: NO_ZERO_IN_DATE,NO_ENGINE_SUBSTITUTION
+0013.226 (0) Testing potential mysqldump binary: C:\Program Files\MySQL\MySQL Workbench 8.0 CE\mysqldump.exe
+0013.365 (0) Output: /*!40103 SET @OLD_TIME_ZONE=@@TIME_ZONE */;\n/*!40103 SET TIME_ZONE='+00:00' */;\n/*!40014 SET @OLD_UNIQUE_CHECKS=@@UNIQUE_CHECKS, UNIQUE_CHECKS=0 */;\n/*!40014 SET @OLD_FOREIGN_KEY_CHECKS=@@FOREIGN_KEY_CHECKS, FOREIGN_KEY_CHECKS=0 */;\n/*!40101 SET @OLD_SQL_MODE=@@SQL_MODE, SQL_MODE='NO_AUTO_VALUE_ON_ZERO' */;\n/*!40111 SET @OLD_SQL_NOTES=@@SQL_NOTES, SQL_NOTES=0 */;\nDROP TABLE IF EXISTS `dcd_templatesoptions`;\n/*!40101 SET @saved_cs_client     = @@character_set_client */;\n/*!50503 SET character_set_client = ut (truncated - 1285 bytes total)
+0013.369 (0) Binary mysqldump: error (code: 2)
+0013.454 (0) Table dcd_templatesoptions: Total expected rows (via COUNT): 336
+0013.456 (0) Table is relatively small; fetch_rows will thus be: 500 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0013.581 (0) Table dcd_templatesoptions: Rows added in this batch (next record: 401): 332 (uncompressed bytes in this segment=7370856) in 0.20 seconds
+0013.591 (0) Table dcd_templatesoptions: finishing file(s) (2, 800.6 KB)
+0013.601 (0) Table dcd_templatesusers: Total expected rows (via COUNT): 1
+0013.603 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0013.606 (0) Table dcd_templatesusers: Rows added in this batch (next record: 1): 1 (uncompressed bytes in this segment=1300) in 0.01 seconds
+0013.614 (0) Table dcd_templatesusers: finishing file(s) (2, 0.6 KB)
+0013.626 (0) Table dcd_templatesusermeta: Total expected rows (via COUNT): 18
+0013.628 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0013.629 (0) Table dcd_templatesusermeta: Rows added in this batch (next record: 19): 18 (uncompressed bytes in this segment=1723) in 0.01 seconds
+0013.641 (0) Table dcd_templatesusermeta: finishing file(s) (2, 0.9 KB)
+0013.658 (0) Table dcd_templatesactionscheduler_actions: Total expected rows (via COUNT): 1
+0013.659 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0013.661 (0) Table dcd_templatesactionscheduler_actions: Rows added in this batch (next record: 2195): 1 (uncompressed bytes in this segment=1838) in 0.01 seconds
+0013.670 (0) Table dcd_templatesactionscheduler_actions: finishing file(s) (2, 0.7 KB)
+0013.680 (0) Table dcd_templatesactionscheduler_claims: Total expected rows (via COUNT): 0
+0013.684 (0) Table dcd_templatesactionscheduler_claims: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=683) in 0.01 seconds
+0013.692 (0) Table dcd_templatesactionscheduler_claims: finishing file(s) (2, 0.4 KB)
+0013.703 (0) Table dcd_templatesactionscheduler_groups: Total expected rows (via COUNT): 1
+0013.706 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0013.708 (0) Table dcd_templatesactionscheduler_groups: Rows added in this batch (next record: 1): 1 (uncompressed bytes in this segment=728) in 0.01 seconds
+0013.716 (0) Table dcd_templatesactionscheduler_groups: finishing file(s) (2, 0.4 KB)
+0013.729 (0) Table dcd_templatesactionscheduler_logs: Total expected rows (via COUNT): 1
+0013.731 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0013.733 (0) Table dcd_templatesactionscheduler_logs: Rows added in this batch (next record: 1): 1 (uncompressed bytes in this segment=949) in 0.01 seconds
+0013.741 (0) Table dcd_templatesactionscheduler_logs: finishing file(s) (2, 0.5 KB)
+0013.754 (0) Table dcd_templatescommentmeta: Total expected rows (via COUNT): 0
+0013.757 (0) Table dcd_templatescommentmeta: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=694) in 0.01 seconds
+0013.766 (0) Table dcd_templatescommentmeta: finishing file(s) (2, 0.4 KB)
+0013.777 (0) Table dcd_templatescomments: Total expected rows (via COUNT): 2
+0013.779 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0013.783 (0) Table dcd_templatescomments: Rows added in this batch (next record: 2): 2 (uncompressed bytes in this segment=2369) in 0.01 seconds
+0013.790 (0) Table dcd_templatescomments: finishing file(s) (2, 0.8 KB)
+0013.802 (0) Table dcd_templateslinks: Total expected rows (via COUNT): 0
+0013.806 (0) Table dcd_templateslinks: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1087) in 0.01 seconds
+0013.815 (0) Table dcd_templateslinks: finishing file(s) (2, 0.5 KB)
+0013.835 (0) Table dcd_templatespostmeta: Total expected rows (via COUNT): 292
+0013.837 (0) Table is relatively small; fetch_rows will thus be: 500 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0013.847 (0) Table dcd_templatespostmeta: Rows added in this batch (next record: 296): 292 (uncompressed bytes in this segment=494142) in 0.03 seconds
+0013.857 (0) Table dcd_templatespostmeta: finishing file(s) (2, 42.8 KB)
+0013.873 (0) Table dcd_templatesposts: Total expected rows (via COUNT): 51
+0013.875 (0) Table is relatively small; fetch_rows will thus be: 100 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0013.881 (0) Table dcd_templatesposts: Rows added in this batch (next record: 2193): 51 (uncompressed bytes in this segment=160171) in 0.02 seconds
+0013.890 (0) Table dcd_templatesposts: finishing file(s) (2, 25.9 KB)
+0013.901 (0) Table dcd_templatesterm_relationships: Total expected rows (approximate): 12
+0013.905 (0) Table dcd_templatesterm_relationships: Rows added in this batch (next record: 100000): 12 (uncompressed bytes in this segment=929) in 0.01 seconds
+0013.913 (0) Table dcd_templatesterm_relationships: finishing file(s) (2, 0.4 KB)
+0013.925 (0) Table dcd_templatesterm_taxonomy: Total expected rows (via COUNT): 5
+0013.926 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0013.929 (0) Table dcd_templatesterm_taxonomy: Rows added in this batch (next record: 5): 5 (uncompressed bytes in this segment=1052) in 0.01 seconds
+0013.938 (0) Table dcd_templatesterm_taxonomy: finishing file(s) (2, 0.5 KB)
+0013.950 (0) Table dcd_templatestermmeta: Total expected rows (via COUNT): 1
+0013.951 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0013.953 (0) Table dcd_templatestermmeta: Rows added in this batch (next record: 1): 1 (uncompressed bytes in this segment=771) in 0.01 seconds
+0013.961 (0) Table dcd_templatestermmeta: finishing file(s) (2, 0.4 KB)
+0013.973 (0) Table dcd_templatesterms: Total expected rows (via COUNT): 5
+0013.975 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0013.977 (0) Table dcd_templatesterms: Rows added in this batch (next record: 5): 5 (uncompressed bytes in this segment=914) in 0.01 seconds
+0013.983 (0) Table dcd_templatesterms: finishing file(s) (2, 0.5 KB)
+0013.996 (0) Table dcd_templateseb_form_settings: Total expected rows (via COUNT): 0
+0014.001 (0) Table dcd_templateseb_form_settings: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=749) in 0.01 seconds
+0014.007 (0) Table dcd_templateseb_form_settings: finishing file(s) (2, 0.4 KB)
+0014.019 (0) Table dcd_templatestm_taskmeta: Total expected rows (via COUNT): 0
+0014.022 (0) Table dcd_templatestm_taskmeta: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=667) in 0.01 seconds
+0014.030 (0) Table dcd_templatestm_taskmeta: finishing file(s) (2, 0.4 KB)
+0014.041 (0) Table dcd_templatestm_tasks: Total expected rows (via COUNT): 0
+0014.044 (0) Table dcd_templatestm_tasks: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=810) in 0.01 seconds
+0014.051 (0) Table dcd_templatestm_tasks: finishing file(s) (2, 0.4 KB)
+0014.065 (0) Table dcd_templateswpforms_payment_meta: Total expected rows (via COUNT): 0
+0014.068 (0) Table dcd_templateswpforms_payment_meta: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=750) in 0.01 seconds
+0014.075 (0) Table dcd_templateswpforms_payment_meta: finishing file(s) (2, 0.4 KB)
+0014.089 (0) Table dcd_templateswpforms_payments: Total expected rows (via COUNT): 0
+0014.091 (0) Table dcd_templateswpforms_payments: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1710) in 0.01 seconds
+0014.099 (0) Table dcd_templateswpforms_payments: finishing file(s) (2, 0.6 KB)
+0014.113 (0) Table dcd_templateswpforms_tasks_meta: Total expected rows (via COUNT): 0
+0014.115 (0) Table dcd_templateswpforms_tasks_meta: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=603) in 0.01 seconds
+0014.123 (0) Table dcd_templateswpforms_tasks_meta: finishing file(s) (2, 0.4 KB)
+0014.125 (0) PHP event: code E_WARNING: filemtime(): stat failed for C:\xampp\htdocs\site-institucional/wp-content/updraft/backup_2024-01-17-1648_Site_Institucional_2c3b76ed78eb-db.gz (line 1976, C:\xampp\htdocs\site-institucional\wp-content\plugins\updraftplus\backup.php)
+0014.127 (0) backup_2024-01-17-1648_Site_Institucional_2c3b76ed78eb-db-table-dcd_templatesoptions.table.tmpr402.gz (1/22/fopen): adding to final database dump
+0014.143 (0) backup_2024-01-17-1648_Site_Institucional_2c3b76ed78eb-db-table-dcd_templatesoptions.table.gz (2/22/fopen): adding to final database dump
+0014.145 (0) backup_2024-01-17-1648_Site_Institucional_2c3b76ed78eb-db-table-dcd_templatesusers.table.tmpr2.gz (3/22/fopen): adding to final database dump
+0014.147 (0) backup_2024-01-17-1648_Site_Institucional_2c3b76ed78eb-db-table-dcd_templatesusers.table.gz (4/22/fopen): adding to final database dump
+0014.147 (0) backup_2024-01-17-1648_Site_Institucional_2c3b76ed78eb-db-table-dcd_templatesusermeta.table.tmpr20.gz (5/22/fopen): adding to final database dump
+0014.149 (0) backup_2024-01-17-1648_Site_Institucional_2c3b76ed78eb-db-table-dcd_templatesusermeta.table.gz (6/22/fopen): adding to final database dump
+0014.150 (0) backup_2024-01-17-1648_Site_Institucional_2c3b76ed78eb-db-table-dcd_templatesactionscheduler_actions.table.tmpr2196.gz (7/22/fopen): adding to final database dump
+0014.152 (0) backup_2024-01-17-1648_Site_Institucional_2c3b76ed78eb-db-table-dcd_templatesactionscheduler_actions.table.gz (8/22/fopen): adding to final database dump
+0014.152 (0) backup_2024-01-17-1648_Site_Institucional_2c3b76ed78eb-db-table-dcd_templatesactionscheduler_claims.table.tmpr0.gz (9/22/fopen): adding to final database dump
+0014.154 (0) backup_2024-01-17-1648_Site_Institucional_2c3b76ed78eb-db-table-dcd_templatesactionscheduler_claims.table.gz (10/22/fopen): adding to final database dump
+0014.155 (0) backup_2024-01-17-1648_Site_Institucional_2c3b76ed78eb-db-table-dcd_templatesactionscheduler_groups.table.tmpr2.gz (11/22/fopen): adding to final database dump
+0014.157 (0) backup_2024-01-17-1648_Site_Institucional_2c3b76ed78eb-db-table-dcd_templatesactionscheduler_groups.table.gz (12/22/fopen): adding to final database dump
+0014.157 (0) backup_2024-01-17-1648_Site_Institucional_2c3b76ed78eb-db-table-dcd_templatesactionscheduler_logs.table.tmpr2.gz (13/22/fopen): adding to final database dump
+0014.159 (0) backup_2024-01-17-1648_Site_Institucional_2c3b76ed78eb-db-table-dcd_templatesactionscheduler_logs.table.gz (14/22/fopen): adding to final database dump
+0014.160 (0) backup_2024-01-17-1648_Site_Institucional_2c3b76ed78eb-db-table-dcd_templatescommentmeta.table.tmpr0.gz (15/22/fopen): adding to final database dump
+0014.162 (0) backup_2024-01-17-1648_Site_Institucional_2c3b76ed78eb-db-table-dcd_templatescommentmeta.table.gz (16/22/fopen): adding to final database dump
+0014.163 (0) backup_2024-01-17-1648_Site_Institucional_2c3b76ed78eb-db-table-dcd_templatescomments.table.tmpr3.gz (17/22/fopen): adding to final database dump
+0014.165 (0) backup_2024-01-17-1648_Site_Institucional_2c3b76ed78eb-db-table-dcd_templatescomments.table.gz (18/22/fopen): adding to final database dump
+0014.166 (0) backup_2024-01-17-1648_Site_Institucional_2c3b76ed78eb-db-table-dcd_templateslinks.table.tmpr0.gz (19/22/fopen): adding to final database dump
+0014.168 (0) backup_2024-01-17-1648_Site_Institucional_2c3b76ed78eb-db-table-dcd_templateslinks.table.gz (20/22/fopen): adding to final database dump
+0014.170 (0) backup_2024-01-17-1648_Site_Institucional_2c3b76ed78eb-db-table-dcd_templatespostmeta.table.tmpr297.gz (21/22/fopen): adding to final database dump
+0014.171 (0) backup_2024-01-17-1648_Site_Institucional_2c3b76ed78eb-db-table-dcd_templatespostmeta.table.gz (22/22/fopen): adding to final database dump
+0014.173 (0) backup_2024-01-17-1648_Site_Institucional_2c3b76ed78eb-db-table-dcd_templatesposts.table.tmpr2194.gz (23/22/fopen): adding to final database dump
+0014.174 (0) backup_2024-01-17-1648_Site_Institucional_2c3b76ed78eb-db-table-dcd_templatesposts.table.gz (24/22/fopen): adding to final database dump
+0014.176 (0) backup_2024-01-17-1648_Site_Institucional_2c3b76ed78eb-db-table-dcd_templatesterm_relationships.table.tmpr100001.gz (25/22/fopen): adding to final database dump
+0014.176 (0) backup_2024-01-17-1648_Site_Institucional_2c3b76ed78eb-db-table-dcd_templatesterm_relationships.table.gz (26/22/fopen): adding to final database dump
+0014.178 (0) backup_2024-01-17-1648_Site_Institucional_2c3b76ed78eb-db-table-dcd_templatesterm_taxonomy.table.tmpr6.gz (27/22/fopen): adding to final database dump
+0014.180 (0) backup_2024-01-17-1648_Site_Institucional_2c3b76ed78eb-db-table-dcd_templatesterm_taxonomy.table.gz (28/22/fopen): adding to final database dump
+0014.181 (0) backup_2024-01-17-1648_Site_Institucional_2c3b76ed78eb-db-table-dcd_templatestermmeta.table.tmpr2.gz (29/22/fopen): adding to final database dump
+0014.183 (0) backup_2024-01-17-1648_Site_Institucional_2c3b76ed78eb-db-table-dcd_templatestermmeta.table.gz (30/22/fopen): adding to final database dump
+0014.183 (0) backup_2024-01-17-1648_Site_Institucional_2c3b76ed78eb-db-table-dcd_templatesterms.table.tmpr6.gz (31/22/fopen): adding to final database dump
+0014.185 (0) backup_2024-01-17-1648_Site_Institucional_2c3b76ed78eb-db-table-dcd_templatesterms.table.gz (32/22/fopen): adding to final database dump
+0014.186 (0) backup_2024-01-17-1648_Site_Institucional_2c3b76ed78eb-db-table-dcd_templateseb_form_settings.table.tmpr0.gz (33/22/fopen): adding to final database dump
+0014.187 (0) backup_2024-01-17-1648_Site_Institucional_2c3b76ed78eb-db-table-dcd_templateseb_form_settings.table.gz (34/22/fopen): adding to final database dump
+0014.188 (0) backup_2024-01-17-1648_Site_Institucional_2c3b76ed78eb-db-table-dcd_templatestm_taskmeta.table.tmpr0.gz (35/22/fopen): adding to final database dump
+0014.190 (0) backup_2024-01-17-1648_Site_Institucional_2c3b76ed78eb-db-table-dcd_templatestm_taskmeta.table.gz (36/22/fopen): adding to final database dump
+0014.192 (0) backup_2024-01-17-1648_Site_Institucional_2c3b76ed78eb-db-table-dcd_templatestm_tasks.table.tmpr0.gz (37/22/fopen): adding to final database dump
+0014.192 (0) backup_2024-01-17-1648_Site_Institucional_2c3b76ed78eb-db-table-dcd_templatestm_tasks.table.gz (38/22/fopen): adding to final database dump
+0014.194 (0) backup_2024-01-17-1648_Site_Institucional_2c3b76ed78eb-db-table-dcd_templateswpforms_payment_meta.table.tmpr0.gz (39/22/fopen): adding to final database dump
+0014.195 (0) backup_2024-01-17-1648_Site_Institucional_2c3b76ed78eb-db-table-dcd_templateswpforms_payment_meta.table.gz (40/22/fopen): adding to final database dump
+0014.197 (0) backup_2024-01-17-1648_Site_Institucional_2c3b76ed78eb-db-table-dcd_templateswpforms_payments.table.tmpr0.gz (41/22/fopen): adding to final database dump
+0014.197 (0) backup_2024-01-17-1648_Site_Institucional_2c3b76ed78eb-db-table-dcd_templateswpforms_payments.table.gz (42/22/fopen): adding to final database dump
+0014.199 (0) backup_2024-01-17-1648_Site_Institucional_2c3b76ed78eb-db-table-dcd_templateswpforms_tasks_meta.table.tmpr0.gz (43/22/fopen): adding to final database dump
+0014.200 (0) backup_2024-01-17-1648_Site_Institucional_2c3b76ed78eb-db-table-dcd_templateswpforms_tasks_meta.table.gz (44/22/fopen): adding to final database dump
+0014.220 (0) backup_2024-01-17-1648_Site_Institucional_2c3b76ed78eb-db.gz: finished writing out complete database file (878.9 KB)
+0014.237 (0) Total database tables backed up: 22 (backup_2024-01-17-1648_Site_Institucional_2c3b76ed78eb-db.gz, size: 900152, sha1: 8538498b36449900de1a428f4e52cf9dcdd2f884, sha256: 18d2f4422586805c1a62feacdb6789cd7555a79832032d97a81f522e8ab571f0)
+0014.243 (0) backup_2024-01-17-1648_Site_Institucional_2c3b76ed78eb-plugins.zip: plugins: This file has already been successfully uploaded
+0014.244 (0) backup_2024-01-17-1648_Site_Institucional_2c3b76ed78eb-themes.zip: themes: This file has already been successfully uploaded
+0014.245 (0) backup_2024-01-17-1648_Site_Institucional_2c3b76ed78eb-uploads.zip: uploads: This file has already been successfully uploaded
+0014.246 (0) backup_2024-01-17-1648_Site_Institucional_2c3b76ed78eb-others.zip: others: This file has already been successfully uploaded
+0014.248 (0) backup_2024-01-17-1648_Site_Institucional_2c3b76ed78eb-db.gz: db: This file has not yet been successfully uploaded: will queue
+0014.250 (0) Saving backup history. Total backup size: 50.4 MB
+0014.252 (0) Requesting upload of the files that have not yet been successfully uploaded (1)
+0014.256 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0014.257 (0) No remote despatch: user chose no remote backup service
+0014.272 (0) Recording as successfully uploaded: backup_2024-01-17-1648_Site_Institucional_2c3b76ed78eb-db.gz
+0014.288 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0014.290 (0) Number of backup sets in history: 1; groups (db): 1
+0014.300 (0) Examining (for databases) backup set with group_id=0, nonce=2c3b76ed78eb, datestamp=1705520902 (Jan 17 2024 19:48:22)
+0014.304 (0) This backup set is the backup set just made, so will not be deleted.
+0014.304 (0) Number of backup sets in history: 1; groups (files): 1
+0014.306 (0) Examining (for files) backup set with nonce=2c3b76ed78eb, datestamp=1705520902 (Jan 17 2024 19:48:22)
+0014.306 (0) This backup set is the backup set just made, so will not be deleted.
+0014.308 (0) This backup set is the backup set just made, so will not be deleted.
+0014.309 (0) This backup set is the backup set just made, so will not be deleted.
+0014.309 (0) This backup set is the backup set just made, so will not be deleted.
+0014.309 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0014.311 (0) Retain: saving new backup history (sets now: 1) and finishing retain operation
+0014.315 (0) Resume backup (2c3b76ed78eb, 0): finish run
+0014.321 (0) Decremented the semaphore (fd) by 1
+0014.324 (0) Semaphore (fd) unlocked
+0014.327 (0) There were no errors in the uploads, so the 'resume' event (1) is being unscheduled
+0014.333 (0) No email will/can be sent - the user has not configured an email address.
+0014.335 (0) The backup succeeded and is now complete
